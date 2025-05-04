@@ -67,10 +67,7 @@ No external dependencies are required.
 
 ## 🖼 Screenshots
 
-> You can add screenshots here if desired. Example:
-
-![Gameplay](https://via.placeholder.com/600x300.png?text=Snake+Game+Preview)
-
+![Snake Game Screenshot](snake_screenshot.png)
 ---
 
 ## ⚠️ Troubleshooting
