@@ -9,9 +9,10 @@ A classic Snake Game implemented in Java using the Swing library for GUI. This v
 
 ```
 snake game/
-├── App.java           # Main class that launches the game
-├── SnakeGame.java     # Game logic and UI rendering
-└── README.md          # Project documentation
+├── App.java              # Main class that launches the game
+├── SnakeGame.java        # Game logic and UI rendering
+├── README.md             # Project documentation
+└── Game_screenshot.png   # game screenshot
 ```
 
 ---
