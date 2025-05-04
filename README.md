@@ -68,7 +68,7 @@ No external dependencies are required.
 
 ## 🖼 Screenshots
 
-![Snake Game Screenshot](snake_screenshot.png)
+![Snake Game Screenshot](game_screenshot.png)
 ---
 
 ## ⚠️ Troubleshooting
